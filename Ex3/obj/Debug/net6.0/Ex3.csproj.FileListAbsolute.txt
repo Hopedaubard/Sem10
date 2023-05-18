@@ -1,0 +1,15 @@
+C:\Repository\Sem10\Ex3\bin\Debug\net6.0\Ex3.exe
+C:\Repository\Sem10\Ex3\bin\Debug\net6.0\Ex3.deps.json
+C:\Repository\Sem10\Ex3\bin\Debug\net6.0\Ex3.runtimeconfig.json
+C:\Repository\Sem10\Ex3\bin\Debug\net6.0\Ex3.dll
+C:\Repository\Sem10\Ex3\bin\Debug\net6.0\Ex3.pdb
+C:\Repository\Sem10\Ex3\obj\Debug\net6.0\Ex3.csproj.AssemblyReference.cache
+C:\Repository\Sem10\Ex3\obj\Debug\net6.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Sem10\Ex3\obj\Debug\net6.0\Ex3.AssemblyInfoInputs.cache
+C:\Repository\Sem10\Ex3\obj\Debug\net6.0\Ex3.AssemblyInfo.cs
+C:\Repository\Sem10\Ex3\obj\Debug\net6.0\Ex3.csproj.CoreCompileInputs.cache
+C:\Repository\Sem10\Ex3\obj\Debug\net6.0\Ex3.dll
+C:\Repository\Sem10\Ex3\obj\Debug\net6.0\refint\Ex3.dll
+C:\Repository\Sem10\Ex3\obj\Debug\net6.0\Ex3.pdb
+C:\Repository\Sem10\Ex3\obj\Debug\net6.0\Ex3.genruntimeconfig.cache
+C:\Repository\Sem10\Ex3\obj\Debug\net6.0\ref\Ex3.dll
